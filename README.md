@@ -1,2 +1,2 @@
 # cScratch
-a repository wihch contain c++ traning files
+a repository wich contain c++ traning files
